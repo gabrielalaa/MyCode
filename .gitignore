@@ -1,0 +1,35 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*$py.class
+
+# Virtual environment (if created inside the project)
+.venv/
+env/
+
+# Logs and temp files
+*.log
+*.tmp
+*.pid
+*.lock
+
+# Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# VS Code & JetBrains IDE settings
+.vscode/
+.idea/
+
+# OS-generated files (macOS & Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore unnecessary build files
+build/
+dist/
+*.egg-info/
+develop-eggs/
+.eggs/
+.installed.cfg
