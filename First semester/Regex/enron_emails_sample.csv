@@ -1,0 +1,6 @@
+sender,receiver,date,message_id,subject
+info@service.com,info@service.com,2000-10-31 19:30:45+00:00,<68512>,Invoice #12345
+admin@website.net,user@website.net,2000-12-28 20:24:18+00:00,<65357>,Account Activation
+jane.smith@company.org,contact@provider.co.uk,2001-07-14 20:22:21+00:00,<28958>,Project Update
+john.doe@example.com,manager@business.com,2001-01-22 01:10:55+00:00,<68246>,Meeting Schedule
+contact@provider.co.uk,jane.smith@company.org,2001-10-08 02:16:51+00:00,<45423>,Weekly Newsletter

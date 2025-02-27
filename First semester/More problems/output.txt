@@ -1,0 +1,26 @@
+1	he Road Not Taken
+2	BY ROBERT FROST
+3	
+4	Two roads diverged in a yellow wood,
+5	And sorry I could not travel both
+6	And be one traveler, long I stood
+7	And looked down one as far as I could
+8	To where it bent in the undergrowth;
+9	
+10	Then took the other, as just as fair,
+11	And having perhaps the better claim,
+12	Because it was grassy and wanted wear;
+13	Though as for that the passing there
+14	Had worn them really about the same,
+15	
+16	And both that morning equally lay
+17	In leaves no step had trodden black.
+18	Oh, I kept the first for another day!
+19	Yet knowing how way leads on to way,
+20	I doubted if I should ever come back.
+21	
+22	I shall be telling this with a sigh
+23	Somewhere ages and ages hence:
+24	Two roads diverged in a wood, and I—
+25	I took the one less traveled by,
+26	And that has made all the difference.

@@ -1,0 +1,13 @@
+s1 = 'Bed and Breakfast        '
+print(s1.find('break'))
+print(s1.index('and'))
+print('fast' in s1)
+print(s1.startswith('bed'))
+print(s1.endswith('fast'))
+print('-'.join(s1))
+print(s1.split('and'))
+print(s1.replace('and', '&'))
+print(s1.swapcase())
+print(s1.upper())
+print(s1.title())
+print(s1.strip())

@@ -1,0 +1,12 @@
+{
+    "Gabi": {
+      "password": "hashed_password1",
+      "score": 5,
+      "rank": 2
+    },
+    "Ade": {
+      "password": "hashed_password2",
+      "score": 10,
+      "rank": 1
+  }
+}
