@@ -1,6 +1,6 @@
 # MyCode – First-Year Python Scripts
 
-I created this repository to gather all the Python scripts I wrote when I first started learning Python. These scripts are organized into directories based on my journey:
+I created this repository to gather all the Python scripts I wrote when I first started learning Python (around 250). These scripts are organized into directories based on my journey:
 
 - **First Semester** and **Second Semester**:  
   Code I wrote during my first year as an Informatics student at **IMC Krems University of Applied Sciences** under the guidance of *Prof. (FH). Dipl.-Ing. Dr. techn. Deepak Dhungana*.
